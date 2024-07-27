@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Front-End and Backend**
 
-- 📫 How to reach me **ashusahu@gmail.com**
+- 📫 How to reach me **ashusahu145@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
